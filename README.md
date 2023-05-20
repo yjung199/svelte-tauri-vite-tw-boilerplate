@@ -49,7 +49,7 @@ yarn tauri help
 
 If you wish to disable DaisyUI, to use other TailwindCSS components, you can do so by removing the plugin from `tailwind.config.js`:
 
-```json
+```
 // tailwind.config.js
 export default {
 ...
